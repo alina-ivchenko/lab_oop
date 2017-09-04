@@ -3,6 +3,7 @@
 require_once('Calculate.php');
 require_once('Team.php');
 require_once('Salary.php');
+require_once('HourSalary.php');
 require_once('MonthSalary.php');
 require_once('Worker.php');
 require_once('Developer.php');
